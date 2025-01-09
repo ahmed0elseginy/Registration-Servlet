@@ -16,7 +16,7 @@ Upon successful data insertion, the user is redirected to a confirmation page (e
 
 4.Technologies Used:
 
-Java Servlet API: For server-side processing.
+Java Servlet : For server-side processing.
 
 JDBC: To interact with the database.
 
